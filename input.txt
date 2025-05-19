@@ -1,0 +1,2 @@
+gene	start	end	PSI
+MET	116771846	116771847	0.8
